@@ -21,7 +21,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="90" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="120" alt="sap logo" />
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="100" alt="sap logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="90" alt="anaconda logo" />
   <img width="20" />
