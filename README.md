@@ -41,3 +41,6 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://media.giphy.com/media/xUOxfpT2RyyF5XgtCw/giphy.gif" height="200" alt="snake animation" />
+</div>
