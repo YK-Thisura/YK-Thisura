@@ -22,10 +22,9 @@
   <img src="https://skillicons.dev/icons?i=python" height="90" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="90" alt="sap logo" />
-</div>
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="90" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="90" alt="power bi logo" />
 </div>
 
 ###
