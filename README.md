@@ -13,15 +13,17 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="90" alt="python logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="90" alt="html5 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=css" height="90" alt="css3 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="90" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=python" height="90" alt="python logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="90" alt="sap logo" />
+  <img width="20" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="90" alt="power bi logo" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="90" alt="mysql logo"  />
   <img width="20" />
