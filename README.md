@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="90" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="120" alt="sap logo" />
-  <img width="30" />
+  <img width="50" />
   <img src="https://img.icons8.com/color/96/power-bi.png" height="120" alt="power bi logo" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="90" alt="mysql logo"  />
