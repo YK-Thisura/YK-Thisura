@@ -23,7 +23,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="120" alt="sap logo" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="90" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="90" alt="anaconda logo" />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="90" alt="mysql logo"  />
   <img width="20" />
