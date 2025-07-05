@@ -1,45 +1,31 @@
-<h2 align="left">Sup ! 👋 I am Theekshana Thisura ❤️</h2>
+💫 About Me: Theekshana Thisura
+<p align="center">
+<img src="https://i.makeagif.com/media/3-14-2023/bkfWVi.gif" width="250" />
+</p>
 
-###
+<p align="center">
+Hello! I'm Theekshana, a passionate developer from Sri Lanka. Welcome to my corner of the internet!
+</p>
 
-<img align="right" height="150" src="https://i.makeagif.com/media/3-14-2023/bkfWVi.gif"  />
+🚀 My Tech Stack
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,html,css,js,sap,anaconda,mysql%26perline%3D4" />
+</a>
+</p>
 
-###
+📊 My GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYK-Thisura%26show_icons%3Dtrue%26theme%3Dvue-dark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Theekshana's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYK-Thisura%26layout%3Dcompact%26theme%3Dvue-dark%26hide_border%3Dtrue" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YK-Thisura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="90" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="90" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="90" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="90" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="100" alt="sap logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="90" alt="anaconda logo" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="90" alt="mysql logo"  />
-  <img width="20" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-
-</div>
-
-###
-
+📫 Let's Connect!
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.youtube.com/%40YourChannel" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-%2523FF0000.svg%3Fstyle%3Dfor-the-badge%26logo%3DYouTube%26logoColor%3Dwhite" alt="YouTube"/></a>
+<a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="https://wa.me/your-number" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366.svg%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp"/></a>
+<a href="https://www.google.com/search?q=https://www.instagram.com/your-username" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram"/></a>
+<a href="https://www.google.com/search?q=https://www.twitch.tv/your-username" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-%25239146FF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite" alt="Twitch"/></a>
+<a href="mailto:your.email@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail"/></a>
+</p>
