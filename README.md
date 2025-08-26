@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="https://github.com/YK-Thisura/YK-Thisura/blob/main/Logo.png" height="100" />
+      <img src="https://github.com/YK-Thisura/YK-Thisura/blob/main/Flemingo.png" height="100" />
     </td>
     <td align="left" width="80%">
       <h3>📺 Flemingo</h3>
