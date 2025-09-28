@@ -4,8 +4,8 @@
   <tr>
     <td align="left" width="40%">
       <ul>
-        <li>I am BI Developer 👨‍💻 Specializing in data extraction, 🦖 transformation & visualization to turn raw data into business gold ✨</li>
-        <li>Tech enthusiast 🧠 Passionate about Business Intelligence, Data Analytics, Big Data 🌍 & Machine Learning 🤖</li>
+        <li>I am Associate Data Analyst 👨‍💻 Specializing in data extraction, 🦖 transformation & visualization to turn raw data into business gold ✨</li>
+        <li>Tech enthusiast 🧠 Passionate about Data Analytics, Business Intelligence, Big Data 🌍 & Machine Learning 🤖</li>
         <li>I don’t just analyze data 📊 I grill it until it confesses the truth 😜</li>
       </ul>
     </td>
