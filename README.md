@@ -72,23 +72,6 @@
 
 <table>
   <tr>
-    <td align="center" width="40%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=yk-thisura&layout=compact&langs_count=10&theme=vue-dark"
-        height="200"
-      />
-    </td>
-    <td align="center" width="60%">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yk-thisura&theme=vue-dark"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center">
       <img
         src="https://raw.githubusercontent.com/YK-Thisura/YK-Thisura/main/Pacman.svg"
